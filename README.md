@@ -22,7 +22,7 @@ Diffrent dev and prod bundles
 
 
 
-#Namaste Food
+#Swiggy Food
 
 // Header-localStorage
 //       -Nav Items
